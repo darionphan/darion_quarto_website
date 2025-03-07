@@ -1,0 +1,26 @@
+project:
+  type: website
+  resources: 
+  - "Darion_Phan_Resume.pdf"
+  - "Darion Phan Fall 2024 Resume.pdf"
+  - "darion_phan_headshot.jpg"
+
+website:
+  title: "Darion Phan"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: projects.qmd
+        text: Projects
+  page-footer:
+    center: "© 2025 Darion Phan"
+  site-url: "https://my-quarto-site.com"
+
+format:
+  html:
+    theme: litera
+    css: styles.css
+    toc: true
+
+editor: visual

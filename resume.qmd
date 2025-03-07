@@ -1,0 +1,12 @@
+---
+title: "Resume / CV"
+format: html
+---
+
+[Resume (PDF)](Darion%20Phan%20Fall%202024%20Resume.pdf){target="\_blank"}
+
+📞 Contact Information
+
+-   **Email:** darionphan02\@gmail.com
+-   **GitHub:** <https://github.com/darionphan>
+-   **LinkedIn:** <https://www.linkedin.com/in/darion-phan/>

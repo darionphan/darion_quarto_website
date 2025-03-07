@@ -1,0 +1,24 @@
+---
+title: "Projects"
+format: html
+---
+
+Here are some of my projects! A lot of them involved some element of risk and/or betting, but I swear I'm not addicted.
+
+## Project 1: PrizePicks Model
+
+-   **Description**: Created NBA, MLB, and Valorant models to take advantage of line discrepancies in PrizePicks' offerings.
+-   **Summary**: As of March 7th, 2025 I am up around 150 units. The models varied by sport, but I can summarize each model. For the NBA model, I used ESPN play-by-play data over multiple seasons to find the correlation of first half and second half shots. I extended this to the offered lines in the second half given a player's performance in the first half. For the MLB model, I used historical box score data to calculate the expected number of hits, runs, and rbis two players will have. My Valorant model involves scraping vlr.gg for historical box scores, agent selection, and map selection. Once this data was obtained, I was able to predict the maps that both teams will play on and, by extension, the agent that will be chosen. Since the lines had to be averaged to account for each team's 'random' agent selection, I was able to capitalize on this and make positive EV bets.
+-   Skills: R, Sports Analytics
+
+## Project 2: Paper Trader
+
+-   **Description**: Used the Alpaca trading platform to continuously trade stocks using algorithmic trading strategies. Note: Only virtual money was used.
+-   **Summary**: I first created a working backtester using historical data of a stock's performance. Using this backtester, I wrote algorithms that looked at multiple stocks' performance in different time intervals and made decisions to buy, sell, or hold. I liked this project because there was a lot of learning involved. It's a pretty random process, but it's somewhat predictable which I find really cool. I learned how to use APIs effectively and stream live data.
+-   **Skills**: Python, Financial Analytics, Backtesting, Algorithms
+
+## Project 3: Blackjack
+
+-   **Description**: I created a functional version of Blackjack.
+-   **Summary**: I wanted to play Blackjack, but I didn't like the versions of Blackjack online. They didn't give me the ability to track my hands, see if I am playing optimal basic strategy, or change the number of decks. I wanted to prepare for Vegas, so I ended up making the Blackjack I wanted. It's playable in the terminal in VS Code.
+-   Skills: Python, VS Code, Blackjack

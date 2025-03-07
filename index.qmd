@@ -1,0 +1,19 @@
+---
+title: "Darion Phan's Personal Website"
+---
+
+![](darion_phan_headshot.jpg){fig-align="center" width="400"}
+
+Hi! I'm Darion Phan and this is my website. I'm planning to pursue a PhD in economics. I am a Math/Econ and Stats double major at UCLA.
+
+In this website you will find some of my projects, my contact information, and my resume.
+
+I had to create this website for a class, but I had a fun time making everything! Feel free to explore using the NavBar in the top left! My resume and contact information can be found below.
+
+[Resume (PDF)](Darion%20Phan%20Fall%202024%20Resume.pdf){target="\_blank"}
+
+📞 Contact Information
+
+-   **Email:** darionphan02\@gmail.com
+-   **GitHub:** <https://github.com/darionphan>
+-   **LinkedIn:** <https://www.linkedin.com/in/darion-phan/>
