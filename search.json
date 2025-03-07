@@ -1,0 +1,107 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Darion Phan’s Personal Website",
+    "section": "",
+    "text": "Hi! I’m Darion Phan and this is my website. I’m planning to pursue a PhD in economics. I am a Math/Econ and Stats double major at UCLA.\nIn this website you will find some of my projects, my contact information, and my resume.\nI had to create this website for a class, but I had a fun time making everything! Feel free to explore using the NavBar in the top left! My resume and contact information can be found below.\nResume (PDF)\n📞 Contact Information\n\nEmail: darionphan02@gmail.com\nGitHub: https://github.com/darionphan\nLinkedIn: https://www.linkedin.com/in/darion-phan/"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "Hi! I’m Darion Phan and this is my website. I’m planning to pursue a PhD in economics. As of March 2025, I am a Math/Econ and Stats double major at UCLA.\nIn this website you will find some of my projects, my contact information, and my resume.\nI had to create this website for a class, but I had a fun time making everything! Feel free to explore using the NavBar in the top left!"
+  },
+  {
+    "objectID": "resume.html",
+    "href": "resume.html",
+    "title": "Resume / CV",
+    "section": "",
+    "text": "Resume (PDF)\n📞 Contact Information\n\nEmail: darionphan02@gmail.com\nGitHub: https://github.com/darionphan\nLinkedIn: https://www.linkedin.com/in/darion-phan/"
+  },
+  {
+    "objectID": "resume.html#summary",
+    "href": "resume.html#summary",
+    "title": "Resume / CV",
+    "section": "",
+    "text": "I am a [Your Profession] with expertise in [Your Skills]. Passionate about [Your Interests]."
+  },
+  {
+    "objectID": "resume.html#work-experience",
+    "href": "resume.html#work-experience",
+    "title": "Resume / CV",
+    "section": "",
+    "text": "Key achievement 1\nKey achievement 2\n\n\n\n\n\nKey achievement 1\nKey achievement 2"
+  },
+  {
+    "objectID": "resume.html#education",
+    "href": "resume.html#education",
+    "title": "Resume / CV",
+    "section": "",
+    "text": "Relevant coursework: Course 1, Course 2"
+  },
+  {
+    "objectID": "resume.html#skills",
+    "href": "resume.html#skills",
+    "title": "Resume / CV",
+    "section": "",
+    "text": "Programming: Python, R, JavaScript, etc.\nWeb Development: HTML, CSS, Quarto\nData Analysis: SQL, Pandas, ggplot2"
+  },
+  {
+    "objectID": "resume.html#contact-information",
+    "href": "resume.html#contact-information",
+    "title": "Resume / CV",
+    "section": "📞 Contact Information",
+    "text": "📞 Contact Information\n\nEmail: darionphan02@gmail.com\nGitHub: https://github.com/darionphan\nLinkedIn: https://www.linkedin.com/in/darion-phan/"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Here are some of my projects! A lot of them involved some element of risk and/or betting, but I swear I’m not addicted."
+  },
+  {
+    "objectID": "projects.html#project-1-ai-image-classifier",
+    "href": "projects.html#project-1-ai-image-classifier",
+    "title": "Projects",
+    "section": "",
+    "text": "Description: Built a deep learning model for image classification.\nTechnologies: Python, TensorFlow, OpenCV"
+  },
+  {
+    "objectID": "projects.html#project-2-personal-website",
+    "href": "projects.html#project-2-personal-website",
+    "title": "Projects",
+    "section": "",
+    "text": "Description: Developed this website using Quarto!\nTechnologies: Quarto, Markdown, HTML, CSS"
+  },
+  {
+    "objectID": "projects.html#project-3-data-analysis-pipeline",
+    "href": "projects.html#project-3-data-analysis-pipeline",
+    "title": "Projects",
+    "section": "",
+    "text": "Description: Automated data collection and visualization.\nTechnologies: R, ggplot2, SQL"
+  },
+  {
+    "objectID": "projects.html#project-1-prizepicks-model",
+    "href": "projects.html#project-1-prizepicks-model",
+    "title": "Projects",
+    "section": "Project 1: PrizePicks Model",
+    "text": "Project 1: PrizePicks Model\n\nDescription: Created NBA, MLB, and Valorant models to take advantage of line discrepancies in PrizePicks’ offerings.\nSummary: As of March 7th, 2025 I am up around 150 units. The models varied by sport, but I can summarize each model. For the NBA model, I used ESPN play-by-play data over multiple seasons to find the correlation of first half and second half shots. I extended this to the offered lines in the second half given a player’s performance in the first half. For the MLB model, I used historical box score data to calculate the expected number of hits, runs, and rbis two players will have. My Valorant model involves scraping vlr.gg for historical box scores, agent selection, and map selection. Once this data was obtained, I was able to predict the maps that both teams will play on and, by extension, the agent that will be chosen. Since the lines had to be averaged to account for each team’s ‘random’ agent selection, I was able to capitalize on this and make positive EV bets.\nSkills: R, Sports Analytics"
+  },
+  {
+    "objectID": "projects.html#project-2-paper-trader",
+    "href": "projects.html#project-2-paper-trader",
+    "title": "Projects",
+    "section": "Project 2: Paper Trader",
+    "text": "Project 2: Paper Trader\n\nDescription: Used the Alpaca trading platform to continuously trade stocks using algorithmic trading strategies. Note: Only virtual money was used.\nSummary: I first created a working backtester using historical data of a stock’s performance. Using this backtester, I wrote algorithms that looked at multiple stocks’ performance in different time intervals and made decisions to buy, sell, or hold. I liked this project because there was a lot of learning involved. It’s a pretty random process, but it’s somewhat predictable which I find really cool. I learned how to use APIs effectively and stream live data.\nSkills: Python, Financial Analytics, Backtesting, Algorithms"
+  },
+  {
+    "objectID": "projects.html#project-3-blackjack",
+    "href": "projects.html#project-3-blackjack",
+    "title": "Projects",
+    "section": "Project 3: Blackjack",
+    "text": "Project 3: Blackjack\n\nDescription: I created a functional version of Blackjack.\nSummary: I wanted to play Blackjack, but I didn’t like the versions of Blackjack online. They didn’t give me the ability to track my hands, see if I am playing optimal basic strategy, or change the number of decks. I wanted to prepare for Vegas, so I ended up making the Blackjack I wanted. It’s playable in the terminal in VS Code.\nSkills: Python, VS Code, Blackjack"
+  }
+]
